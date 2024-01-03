@@ -1,0 +1,64 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.c1
+{
+    width: 452px;
+    margin: 25px;
+    float: left;
+    margin-top: 40px;
+}
+
+img{
+  
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+h1{
+    display: block;
+    margin: auto;
+    width: 461px;
+    margin-top: 30px;
+}
+.container
+{
+    overflow: auto;
+    height: 400px;
+}
+
+.score-board
+{
+    overflow: auto;
+    margin-top: -61px;
+}
+.score
+{
+    margin-left: 380px;
+    width: 200px;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#p1
+{
+    font-size: 50px;
+}
+
+#p2
+{
+    font-size: 50px;
+}
+
+#hid
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 400px;
+}
